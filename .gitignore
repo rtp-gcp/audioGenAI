@@ -1,3 +1,10 @@
+.DS_Store
+jams-devpost-260ef9be751f.json
+application_default_credentials_devpost_goog_sq.json
+*.mp3
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

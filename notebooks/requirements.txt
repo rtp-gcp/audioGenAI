@@ -1,0 +1,6 @@
+google-cloud-aiplatform
+google-cloud-texttospeech
+google-generativeai
+# pathlib is built-in
+# dotenv allows .env file in current dir
+python-dotenv
